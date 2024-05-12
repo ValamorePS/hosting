@@ -80,128 +80,15 @@
     {
       "hash": "b96690a4f4cca8417705067c437bd0cbe97f13177cd6c83e7db8f527299c8783",
       "name": "game-0.0.1.jar",
-      "path": "https://github.com/ValamorePS/hosting/raw/main/client/live/repo/game-0.0.1.jar",
+      "path": "https://github.com/ValamorePS/hosting/raw/main/client/live/repo/1.0/game-0.0.1.jar",
       "size": 2335591,
       "platform": []
     },
     {
       "hash": "6d3423e8aabd5e3d56d277abacceccc49830a30a2577b3462674004b885bd076",
       "name": "runelite-0.0.1.jar",
-      "path": "https://github.com/ValamorePS/hosting/raw/main/client/live/repo/runelite-0.0.1.jar",
+      "path": "https://github.com/ValamorePS/hosting/raw/main/client/live/repo/1.0/runelite-0.0.1.jar",
       "size": 15786932,
-      "platform": []
-    },
-    {
-      "hash": "4a9ef7ed809b1fbc6992bf87d404087c247e7a9766e25bb84377b58ed5c9eb58",
-      "name": "logback-core-1.2.9.jar",
-      "path": "https://repo.runelite.net/ch/qos/logback/logback-core/1.2.9/logback-core-1.2.9.jar",
-      "size": 454201,
-      "platform": []
-    },
-    {
-      "hash": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
-      "name": "javax.inject-1.jar",
-      "path": "https://repo.runelite.net/javax/inject/javax.inject/1/javax.inject-1.jar",
-      "size": 2497,
-      "platform": []
-    },
-    {
-      "hash": "0ebaaf92d306c946ce9d3db25496b9068b7aab782b15966be2544b6a24838038",
-      "name": "lwjgl-opengl-3.3.2.jar",
-      "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2.jar",
-      "size": 928871,
-      "platform": []
-    },
-    {
-      "hash": "ebc65354b64a33659cc642446dc15c6d62a4bd0ae15c9a6a4a3adbcd71f1f690",
-      "name": "lwjgl-3.3.2-natives-windows.jar",
-      "path": "https://repo.runelite.net/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2.jar",
-      "size": 164993,
-      "platform": [
-        {
-          "arch": "x86",
-          "name": "windows"
-        }
-      ]
-    },
-    {
-      "hash": "1903bc6d87f3ab92023957b91f45a9c8eb3515bad030356ce977201e5141b724",
-      "name": "jna-platform-5.9.0.jar",
-      "path": "https://repo.runelite.net/net/java/dev/jna/jna-platform/5.9.0/jna-platform-5.9.0.jar",
-      "size": 1343236,
-      "platform": []
-    },
-    {
-      "hash": "0275a42f91c6bc5f08bdc1f7c7e263058cc99dbed7c710a025e4ad175e9a0edd",
-      "name": "lwjgl-opengl-3.3.2-natives-windows.jar",
-      "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2.jar",
-      "size": 101530,
-      "platform": [
-        {
-          "arch": "x86",
-          "name": "windows"
-        }
-      ]
-    },
-    {
-      "hash": "c3a32053bb4c042489f40936926487cdaf33089185b847fb298b84a62b5703ff",
-      "name": "lwjgl-opengl-3.3.2-natives-windows-x86.jar",
-      "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2.jar",
-      "size": 88610,
-      "platform": [
-        {
-          "arch": "x86",
-          "name": "windows"
-        }
-      ]
-    },
-    {
-      "hash": "3c3c608f97ce74bdfaa3af30fd026d5d8956280607e11dd1a0996fdb16eef6ef",
-      "name": "rlawt-1.3.jar",
-      "path": "https://repo.runelite.net/net/runelite/rlawt/1.3/rlawt-1.3.jar",
-      "size": 161458,
-      "platform": []
-    },
-    {
-      "hash": "f8016606e74f3cafd63eae07b1331f903f999c9f40726c838399a144c3809217",
-      "name": "lwjgl-3.3.2.jar",
-      "path": "https://repo.runelite.net/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2.jar",
-      "size": 786196,
-      "platform": []
-    },
-    {
-      "hash": "c518fa0427c7f6029b115541c0dbcf633fc89a65467f8472c52bb71fe18b559c",
-      "name": "flatlaf-3.2.5-rl4.jar",
-      "path": "https://repo.runelite.net/net/runelite/flatlaf/3.2.5-rl4/flatlaf-3.2.5-rl4.jar",
-      "size": 792432,
-      "platform": []
-    },
-    {
-      "hash": "8d784075bec0b7c55042c109a4de8923b3b6d2ebd2e00912d518f07240f9c23a",
-      "name": "rxjava-3.1.2.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/reactivex/rxjava3/rxjava/3.1.2/rxjava-3.1.2.jar",
-      "size": 2654933,
-      "platform": []
-    },
-    {
-      "hash": "cfee5822e342c4018b9c71acc6aac0e23910f1b04725a0e44fe9f94ef2dc3f1e",
-      "name": "jgroups-5.2.2.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/jgroups/jgroups/5.2.2.Final/jgroups-5.2.2.Final.jar",
-      "size": 2192603,
-      "platform": []
-    },
-    {
-      "hash": "eafcc780b445434d3c5ae7fa2fb6665de1a7560d537d2c408a8e80cd14d27161",
-      "name": "jna-5.9.0.jar",
-      "path": "https://repo.runelite.net/net/java/dev/jna/jna/5.9.0/jna-5.9.0.jar",
-      "size": 1729586,
-      "platform": []
-    },
-    {
-      "hash": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83",
-      "name": "substance-8.0.02.jar",
-      "path": "https://repo.runelite.net/net/runelite/pushingpixels/substance/8.0.02/substance-8.0.02.jar",
-      "size": 1589195,
       "platform": []
     },
     {
@@ -209,251 +96,6 @@
       "name": "commons-csv-1.9.0.jar",
       "path": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-csv/1.9.0/commons-csv-1.9.0.jar",
       "size": 51322,
-      "platform": []
-    },
-    {
-      "hash": "45726bd470f9d2507fbb0c96a11cf8eca0f902069d1b256bb038f125822ea290",
-      "name": "desktopsupport-0.6.0.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/madlonkay/desktopsupport/0.6.0/desktopsupport-0.6.0.jar",
-      "size": 68163,
-      "platform": []
-    },
-    {
-      "hash": "56687e5370dcd64239c315d4a1c7e45b5a31ac9cdac077fc6af078f4b7bf5661",
-      "name": "netty-codec-redis-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-codec-redis/4.1.92.Final/netty-codec-redis-4.1.92.Final.jar",
-      "size": 45954,
-      "platform": []
-    },
-    {
-      "hash": "9fab2e80f4261e22071b61af8dcf35d0c831bb985279a154f6eaff70d0bd993c",
-      "name": "netty-all-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-all/4.1.92.Final/netty-all-4.1.92.Final.jar",
-      "size": 4449,
-      "platform": []
-    },
-    {
-      "hash": "f957f13604ea1686de805801862f339dbbb6eab9a66f9cc7e4a5c5b27e4fcecc",
-      "name": "plexus-utils-3.4.2.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.4.2/plexus-utils-3.4.2.jar",
-      "size": 267326,
-      "platform": []
-    },
-    {
-      "hash": "cb4f7ae0344534332d724b4587ffb1e05efa62fdf144ae9f24d0f56fdbb587b9",
-      "name": "plexus-java-1.1.1.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/1.1.1/plexus-java-1.1.1.jar",
-      "size": 53784,
-      "platform": []
-    },
-    {
-      "hash": "ecc4d08610f28a6848ece4a78aba637e0854eba6e95db8e2099bdef166771fc3",
-      "name": "netty-codec-http2-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.92.Final/netty-codec-http2-4.1.92.Final.jar",
-      "size": 481142,
-      "platform": []
-    },
-    {
-      "hash": "fee1e69af2f97e73151713d0b06695ab5fe199d4aea324351f8507ca377b4136",
-      "name": "netty-resolver-dns-native-macos-4.1.92.Final-osx-x86_64.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.92.Final/netty-resolver-dns-native-macos-4.1.92.Final.jar",
-      "size": 18922,
-      "platform": []
-    },
-    {
-      "hash": "fc54027aeff0e9965a16166df6f3e0425437e0696bcce5965aa09f4970576ddb",
-      "name": "j3d-core-1.3.1.jar",
-      "path": "https://repo.maven.apache.org/maven2/java3d/j3d-core/1.3.1/j3d-core-1.3.1.jar",
-      "size": 2513498,
-      "platform": []
-    },
-    {
-      "hash": "5cebefe2195fa4531834363454c79c7675551518ca236b64089c403da7967770",
-      "name": "netty-buffer-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.92.Final/netty-buffer-4.1.92.Final.jar",
-      "size": 305437,
-      "platform": []
-    },
-    {
-      "hash": "7b0f19724082cbfcbc66e5abea2b9bc92cf08a1ea11e191933ed43801eb3cd05",
-      "name": "annotations-23.0.0.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar",
-      "size": 29371,
-      "platform": []
-    },
-    {
-      "hash": "562cae90b874e1ccb32b0f44a0a9e5dfd114086f2be5196d8d01afd21d82db1d",
-      "name": "netty-transport-rxtx-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-transport-rxtx/4.1.92.Final/netty-transport-rxtx-4.1.92.Final.jar",
-      "size": 18188,
-      "platform": []
-    },
-    {
-      "hash": "efa2379918bc3f6a2f3f78db6035ee7b03ba89bb257db2836d9130321cf73b03",
-      "name": "netty-transport-native-kqueue-4.1.92.Final-osx-x86_64.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-kqueue/4.1.92.Final/netty-transport-native-kqueue-4.1.92.Final.jar",
-      "size": 24652,
-      "platform": []
-    },
-    {
-      "hash": "b5543ee08d062d551cf0a5c9bc0fb70588b0382079029ba48941fa9c9be8a5d4",
-      "name": "fastutil-8.5.12.jar",
-      "path": "https://repo.maven.apache.org/maven2/it/unimi/dsi/fastutil/8.5.12/fastutil-8.5.12.jar",
-      "size": 23326598,
-      "platform": []
-    },
-    {
-      "hash": "a171ee4c734dd2da837e4b16be9df4661afab72a41adaf31eb84dfdaf936ca26",
-      "name": "failureaccess-1.0.1.jar",
-      "path": "https://repo.maven.apache.org/maven2/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar",
-      "size": 4617,
-      "platform": []
-    },
-    {
-      "hash": "d919d904486c037f8d193412da0c92e22a9fa24230b9d67a57855c5c31c7e94e",
-      "name": "commons-lang3-3.12.0.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar",
-      "size": 587402,
-      "platform": []
-    },
-    {
-      "hash": "a7f408fe67a3152b895784ba9ec4c6203e90bea627e70ed360a6883b6e714d48",
-      "name": "netty-resolver-dns-native-macos-4.1.92.Final-osx-aarch_64.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.92.Final/netty-resolver-dns-native-macos-4.1.92.Final.jar",
-      "size": 19390,
-      "platform": []
-    },
-    {
-      "hash": "62603b9a92c789f0beb8ec25052f278d6f9ce02c6687c8f1afbc7483da54131a",
-      "name": "lwjgl-3.3.2-natives-macos.jar",
-      "path": "https://repo.runelite.net/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2.jar",
-      "size": 60240,
-      "platform": [
-        {
-          "name": "macos"
-        }
-      ]
-    },
-    {
-      "hash": "89f53089a5f8a983db25140a1c94c72fe2a8f56feb6ddb597f55b8329ce5b400",
-      "name": "lwjgl-3.3.2-natives-linux.jar",
-      "path": "https://repo.runelite.net/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2.jar",
-      "size": 114144,
-      "platform": [
-        {
-          "name": "linux"
-        }
-      ]
-    },
-    {
-      "hash": "dbaa088690a23a954eff669a99d2452a24dd9f10d866725ff5d29ff4740a897e",
-      "name": "vecmath-1.3.1.jar",
-      "path": "https://repo.maven.apache.org/maven2/java3d/vecmath/1.3.1/vecmath-1.3.1.jar",
-      "size": 289881,
-      "platform": []
-    },
-    {
-      "hash": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
-      "name": "aopalliance-1.0.jar",
-      "path": "https://repo.runelite.net/aopalliance/aopalliance/1.0/aopalliance-1.0.jar",
-      "size": 4467,
-      "platform": []
-    },
-    {
-      "hash": "f91bb777e2954eea033550c09b7c2d94e83962fc418d98fcc7bf1ee03a84ec25",
-      "name": "netty-transport-native-epoll-4.1.92.Final-linux-aarch_64.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.92.Final/netty-transport-native-epoll-4.1.92.Final.jar",
-      "size": 39836,
-      "platform": [
-        {
-          "name": "linux"
-        }
-      ]
-    },
-    {
-      "hash": "ab051c87d46c32b5e9e486e611240358d2dfa5e9af8541b6cb476a09ddc5e548",
-      "name": "netty-codec-http-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.92.Final/netty-codec-http-4.1.92.Final.jar",
-      "size": 656540,
-      "platform": []
-    },
-    {
-      "hash": "45c83f94928a313bd5b25bf8d2064dc6fbe78335154a5cb11b718cceee7a3745",
-      "name": "netty-handler-ssl-ocsp-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-handler-ssl-ocsp/4.1.92.Final/netty-handler-ssl-ocsp-4.1.92.Final.jar",
-      "size": 26510,
-      "platform": []
-    },
-    {
-      "hash": "8956bca64d2851dc14ec6bfbfc55ce35fdff89270b5f2a3c9f70aea77f6d1e17",
-      "name": "lwjgl-opengl-3.3.2-natives-linux.jar",
-      "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2.jar",
-      "size": 80464,
-      "platform": [
-        {
-          "name": "linux"
-        }
-      ]
-    },
-    {
-      "hash": "721cb91842b46fa056847d104d5225c8b8e1e8b62263b993051e1e5a0137b7ec",
-      "name": "error_prone_annotations-2.11.0.jar",
-      "path": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.11.0/error_prone_annotations-2.11.0.jar",
-      "size": 15979,
-      "platform": []
-    },
-    {
-      "hash": "21e6f5c1c68a171398daf7785ffb2797da89242f90d19e24236563f7c0b1f7e0",
-      "name": "lwjgl-3.3.2-natives-windows-x86.jar",
-      "path": "https://repo.runelite.net/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2.jar",
-      "size": 139365,
-      "platform": [
-        {
-          "arch": "x86",
-          "name": "windows"
-        }
-      ]
-    },
-    {
-      "hash": "6409723fd13496386dfb1335a9794dc0919db6132522f2b7486d6734fc5df6e5",
-      "name": "discord-1.4.jar",
-      "path": "https://repo.runelite.net/net/runelite/discord/1.4/discord-1.4.jar",
-      "size": 681590,
-      "platform": []
-    },
-    {
-      "hash": "2d54050f40e52f376c97e1d0ccc57bc5bbd1bac7a3173d6e6ff297ff447fab28",
-      "name": "netty-transport-native-kqueue-4.1.92.Final-osx-aarch_64.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-kqueue/4.1.92.Final/netty-transport-native-kqueue-4.1.92.Final.jar",
-      "size": 25338,
-      "platform": []
-    },
-    {
-      "hash": "50eae3f1cc9a78a970970518e005d3f43d5cd3262d234f47ebdf3ca3f8bc01a7",
-      "name": "slf4j-simple-2.0.7.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/2.0.7/slf4j-simple-2.0.7.jar",
-      "size": 15972,
-      "platform": []
-    },
-    {
-      "hash": "ad745cc243805800d1ebbf5b7deba03b37c95885e6bce71335a73f7d6d0f14ee",
-      "name": "logback-classic-1.2.9.jar",
-      "path": "https://repo.runelite.net/ch/qos/logback/logback-classic/1.2.9/logback-classic-1.2.9.jar",
-      "size": 233855,
-      "platform": []
-    },
-    {
-      "hash": "873bfefc23e9f02bbb5723f6dd01973878087c368b7f42833308965fb1869360",
-      "name": "netty-transport-classes-epoll-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.92.Final/netty-transport-classes-epoll-4.1.92.Final.jar",
-      "size": 145112,
-      "platform": []
-    },
-    {
-      "hash": "b37b9b1b7ef5cf5626d92d391de5422d5fd5a1816193447ee7bb61c70aa2db31",
-      "name": "netty-transport-native-unix-common-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.92.Final/netty-transport-native-unix-common-4.1.92.Final.jar",
-      "size": 43895,
       "platform": []
     },
     {
@@ -469,31 +111,422 @@
       ]
     },
     {
-      "hash": "5d6298b93a1905c32cda6478808ac14c2d4a47e91535e53c41f7feeb85d946f4",
-      "name": "slf4j-api-2.0.7.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar",
-      "size": 63635,
+      "hash": "873bfefc23e9f02bbb5723f6dd01973878087c368b7f42833308965fb1869360",
+      "name": "netty-transport-classes-epoll-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.92.Final/netty-transport-classes-epoll-4.1.92.Final.jar",
+      "size": 145112,
       "platform": []
     },
     {
-      "hash": "84dbfa4730565134504d65cdd823341c8b2ee655e2d1c5f004cf95bff0180655",
-      "name": "streamex-0.8.1.jar",
-      "path": "https://repo.maven.apache.org/maven2/one/util/streamex/0.8.1/streamex-0.8.1.jar",
-      "size": 314987,
+      "hash": "770cd903fa7b604d1f7ef7ba17f84108667294b2b478be8ed1af3bffb4ae0018",
+      "name": "commons-text-1.10.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar",
+      "size": 238400,
       "platform": []
     },
     {
-      "hash": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
-      "name": "jsr305-3.0.2.jar",
-      "path": "https://repo.runelite.net/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar",
-      "size": 19936,
+      "hash": "055f5cb24287fa106100995a7b47ab92126b81e832e875f5fa2cf0bd55693d0b",
+      "name": "kotlin-stdlib-jdk7-1.8.22.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22.jar",
+      "size": 963,
       "platform": []
     },
     {
-      "hash": "b9d4fe4d71938df38839f0eca42aaaa64cf8b313d678da036f0cb3ca199b47f5",
-      "name": "asm-9.2.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.2/asm-9.2.jar",
-      "size": 122004,
+      "hash": "9fab2e80f4261e22071b61af8dcf35d0c831bb985279a154f6eaff70d0bd993c",
+      "name": "netty-all-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-all/4.1.92.Final/netty-all-4.1.92.Final.jar",
+      "size": 4449,
+      "platform": []
+    },
+    {
+      "hash": "21af30c92267bd6122c0e0b4d20cccb6641a37eaf956c6540ec471d584e64a7b",
+      "name": "j2objc-annotations-1.3.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar",
+      "size": 8781,
+      "platform": []
+    },
+    {
+      "hash": "3bae18be3e0f0940375d1ebdd2f3b84d87ae16026ae663b2f5d4667fe5b04036",
+      "name": "guice-5.0.1.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/google/inject/guice/5.0.1/guice-5.0.1.jar",
+      "size": 773293,
+      "platform": []
+    },
+    {
+      "hash": "1063f1db146bba7b63e53345805d9642f67605421a9ede6f1760b19c88205915",
+      "name": "netty-transport-udt-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-transport-udt/4.1.92.Final/netty-transport-udt-4.1.92.Final.jar",
+      "size": 32132,
+      "platform": []
+    },
+    {
+      "hash": "f8016606e74f3cafd63eae07b1331f903f999c9f40726c838399a144c3809217",
+      "name": "lwjgl-3.3.2.jar",
+      "path": "https://repo.runelite.net/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2.jar",
+      "size": 786196,
+      "platform": []
+    },
+    {
+      "hash": "fc54027aeff0e9965a16166df6f3e0425437e0696bcce5965aa09f4970576ddb",
+      "name": "j3d-core-1.3.1.jar",
+      "path": "https://repo.maven.apache.org/maven2/java3d/j3d-core/1.3.1/j3d-core-1.3.1.jar",
+      "size": 2513498,
+      "platform": []
+    },
+    {
+      "hash": "0275a42f91c6bc5f08bdc1f7c7e263058cc99dbed7c710a025e4ad175e9a0edd",
+      "name": "lwjgl-opengl-3.3.2-natives-windows.jar",
+      "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2.jar",
+      "size": 101530,
+      "platform": [
+        {
+          "arch": "x86",
+          "name": "windows"
+        }
+      ]
+    },
+    {
+      "hash": "4198b0eaf090a4f25b6f7e5a59581f4314ba8c9f6cd1d13ee9d348e65ed8f707",
+      "name": "kotlin-stdlib-jdk8-1.8.22.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22.jar",
+      "size": 969,
+      "platform": []
+    },
+    {
+      "hash": "6409723fd13496386dfb1335a9794dc0919db6132522f2b7486d6734fc5df6e5",
+      "name": "discord-1.4.jar",
+      "path": "https://repo.runelite.net/net/runelite/discord/1.4/discord-1.4.jar",
+      "size": 681590,
+      "platform": []
+    },
+    {
+      "hash": "4241c14a7727c34feea6507ec801318a3d4a90f070e4525681079fb94ee4c593",
+      "name": "gson-2.10.1.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar",
+      "size": 283367,
+      "platform": []
+    },
+    {
+      "hash": "6d260ffd3a1008be5619f27d55217bc144a8b85c9d41566ef6cc3c14b94f9b5e",
+      "name": "jpackage-maven-plugin-0.1.5.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/github/akman/jpackage-maven-plugin/0.1.5/jpackage-maven-plugin-0.1.5.jar",
+      "size": 64114,
+      "platform": []
+    },
+    {
+      "hash": "ff10785ac2a357ec5de9c293cb982a2cbb605c0309ea4cc1cb9b9bc6dbe7f3cb",
+      "name": "checker-qual-3.12.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.12.0/checker-qual-3.12.0.jar",
+      "size": 208835,
+      "platform": []
+    },
+    {
+      "hash": "7f70ecba1cdce3d0cea5c94eaae19e6d0c5a82181b6c24d3dd808a3419e83663",
+      "name": "klaxon-5.5.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/beust/klaxon/5.5/klaxon-5.5.jar",
+      "size": 166681,
+      "platform": []
+    },
+    {
+      "hash": "0c6a78c4e696deaddefd8346b4c13883704b36a890003075a33ccba2d1a13c2d",
+      "name": "lwjgl-opengl-3.3.2-natives-macos.jar",
+      "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2.jar",
+      "size": 41485,
+      "platform": [
+        {
+          "name": "macos"
+        }
+      ]
+    },
+    {
+      "hash": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
+      "name": "aopalliance-1.0.jar",
+      "path": "https://repo.runelite.net/aopalliance/aopalliance/1.0/aopalliance-1.0.jar",
+      "size": 4467,
+      "platform": []
+    },
+    {
+      "hash": "45726bd470f9d2507fbb0c96a11cf8eca0f902069d1b256bb038f125822ea290",
+      "name": "desktopsupport-0.6.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/madlonkay/desktopsupport/0.6.0/desktopsupport-0.6.0.jar",
+      "size": 68163,
+      "platform": []
+    },
+    {
+      "hash": "7b0f19724082cbfcbc66e5abea2b9bc92cf08a1ea11e191933ed43801eb3cd05",
+      "name": "annotations-23.0.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar",
+      "size": 29371,
+      "platform": []
+    },
+    {
+      "hash": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83",
+      "name": "substance-8.0.02.jar",
+      "path": "https://repo.runelite.net/net/runelite/pushingpixels/substance/8.0.02/substance-8.0.02.jar",
+      "size": 1589195,
+      "platform": []
+    },
+    {
+      "hash": "0ebaaf92d306c946ce9d3db25496b9068b7aab782b15966be2544b6a24838038",
+      "name": "lwjgl-opengl-3.3.2.jar",
+      "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2.jar",
+      "size": 928871,
+      "platform": []
+    },
+    {
+      "hash": "a42edc9cab792e39fe39bb94f3fca655ed157ff87a8af78e1d6ba5b07c4a00ab",
+      "name": "guava-31.1-jre.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/google/guava/guava/31.1-jre/guava-31.1-jre.jar",
+      "size": 2959479,
+      "platform": []
+    },
+    {
+      "hash": "5fe22a549634d3c5b305a4a50014c2cd6cd0465d41c77465a2f4cac9e5fa683b",
+      "name": "netty-codec-memcache-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-codec-memcache/4.1.92.Final/netty-codec-memcache-4.1.92.Final.jar",
+      "size": 44686,
+      "platform": []
+    },
+    {
+      "hash": "4941773858f3fddb84c7c6d2cc67cf0c4c991fc3eb8a608916d9982e6997ad4d",
+      "name": "netty-resolver-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.92.Final/netty-resolver-4.1.92.Final.jar",
+      "size": 37788,
+      "platform": []
+    },
+    {
+      "hash": "3c3c608f97ce74bdfaa3af30fd026d5d8956280607e11dd1a0996fdb16eef6ef",
+      "name": "rlawt-1.3.jar",
+      "path": "https://repo.runelite.net/net/runelite/rlawt/1.3/rlawt-1.3.jar",
+      "size": 161458,
+      "platform": []
+    },
+    {
+      "hash": "f47904873d4d2b7d71b22a7ec6424b40f69b33cb0342a48a94b0be3fdeb70bc5",
+      "name": "rxrelay-3.0.1.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/jakewharton/rxrelay3/rxrelay/3.0.1/rxrelay-3.0.1.jar",
+      "size": 28351,
+      "platform": []
+    },
+    {
+      "hash": "fee1e69af2f97e73151713d0b06695ab5fe199d4aea324351f8507ca377b4136",
+      "name": "netty-resolver-dns-native-macos-4.1.92.Final-osx-x86_64.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.92.Final/netty-resolver-dns-native-macos-4.1.92.Final.jar",
+      "size": 18922,
+      "platform": []
+    },
+    {
+      "hash": "2218c73b40f9af98b570d084420c1b4a81332297bd7fc27ddd552e903be8e93c",
+      "name": "java-semver-0.9.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/github/zafarkhaja/java-semver/0.9.0/java-semver-0.9.0.jar",
+      "size": 46843,
+      "platform": []
+    },
+    {
+      "hash": "b372a037d4230aa57fbeffdef30fd6123f9c0c2db85d0aced00c91b974f33f99",
+      "name": "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar",
+      "size": 2199,
+      "platform": []
+    },
+    {
+      "hash": "dbf117e61bedcbe4f7b7be137f906a3f80c157c7fb5bd388b5f964cb6c34c373",
+      "name": "netty-codec-mqtt-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-codec-mqtt/4.1.92.Final/netty-codec-mqtt-4.1.92.Final.jar",
+      "size": 100899,
+      "platform": []
+    },
+    {
+      "hash": "3558e81ca74c60dc01baca7ef05f48594bbaed43af45d4f1b9196e479734e675",
+      "name": "vecmath-1.5.2.jar",
+      "path": "https://repo.maven.apache.org/maven2/javax/vecmath/vecmath/1.5.2/vecmath-1.5.2.jar",
+      "size": 169541,
+      "platform": []
+    },
+    {
+      "hash": "ab051c87d46c32b5e9e486e611240358d2dfa5e9af8541b6cb476a09ddc5e548",
+      "name": "netty-codec-http-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.92.Final/netty-codec-http-4.1.92.Final.jar",
+      "size": 656540,
+      "platform": []
+    },
+    {
+      "hash": "3214e1c23d549d5d67c91da4da1ef33c5248470bb824f91cbe8f9e0beea59eef",
+      "name": "trident-1.5.00.jar",
+      "path": "https://repo.runelite.net/net/runelite/pushingpixels/trident/1.5.00/trident-1.5.00.jar",
+      "size": 79726,
+      "platform": []
+    },
+    {
+      "hash": "f91bb777e2954eea033550c09b7c2d94e83962fc418d98fcc7bf1ee03a84ec25",
+      "name": "netty-transport-native-epoll-4.1.92.Final-linux-aarch_64.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.92.Final/netty-transport-native-epoll-4.1.92.Final.jar",
+      "size": 39836,
+      "platform": [
+        {
+          "name": "linux"
+        }
+      ]
+    },
+    {
+      "hash": "3120ecbcccf31f36064f260fa0127b4a359097a294ac5b3e7675d1867168f2e6",
+      "name": "lwjgl-opengl-3.3.2-natives-macos-arm64.jar",
+      "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2.jar",
+      "size": 42490,
+      "platform": [
+        {
+          "arch": "aarch64",
+          "name": "macos"
+        }
+      ]
+    },
+    {
+      "hash": "ad745cc243805800d1ebbf5b7deba03b37c95885e6bce71335a73f7d6d0f14ee",
+      "name": "logback-classic-1.2.9.jar",
+      "path": "https://repo.runelite.net/ch/qos/logback/logback-classic/1.2.9/logback-classic-1.2.9.jar",
+      "size": 233855,
+      "platform": []
+    },
+    {
+      "hash": "975b6f2c3685650bc58e2e37c6051115a5d6407f7e174dea5cce9064e2ccbdc7",
+      "name": "netty-resolver-dns-classes-macos-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.92.Final/netty-resolver-dns-classes-macos-4.1.92.Final.jar",
+      "size": 9091,
+      "platform": []
+    },
+    {
+      "hash": "21e6f5c1c68a171398daf7785ffb2797da89242f90d19e24236563f7c0b1f7e0",
+      "name": "lwjgl-3.3.2-natives-windows-x86.jar",
+      "path": "https://repo.runelite.net/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2.jar",
+      "size": 139365,
+      "platform": [
+        {
+          "arch": "x86",
+          "name": "windows"
+        }
+      ]
+    },
+    {
+      "hash": "3b479313ab6caea4e5e25d3dee8ca80c302c89ba73e1af4dafaa100f6ef9296a",
+      "name": "kotlin-stdlib-1.9.21.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.9.21/kotlin-stdlib-1.9.21.jar",
+      "size": 1718945,
+      "platform": []
+    },
+    {
+      "hash": "2e8cb2d546a01c2259cb17f1e06732db3d14b079d19622bf8400c82cb1ee6b96",
+      "name": "file-management-3.1.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.1.0/file-management-3.1.0.jar",
+      "size": 36328,
+      "platform": []
+    },
+    {
+      "hash": "b5543ee08d062d551cf0a5c9bc0fb70588b0382079029ba48941fa9c9be8a5d4",
+      "name": "fastutil-8.5.12.jar",
+      "path": "https://repo.maven.apache.org/maven2/it/unimi/dsi/fastutil/8.5.12/fastutil-8.5.12.jar",
+      "size": 23326598,
+      "platform": []
+    },
+    {
+      "hash": "4496b06e73982fcdd8a5393f46e5df2ce2fa4465df5895454cac68a32f09bbc8",
+      "name": "okio-jvm-2.8.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio/2.8.0/okio-2.8.0.jar",
+      "size": 243179,
+      "platform": []
+    },
+    {
+      "hash": "50eae3f1cc9a78a970970518e005d3f43d5cd3262d234f47ebdf3ca3f8bc01a7",
+      "name": "slf4j-simple-2.0.7.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/2.0.7/slf4j-simple-2.0.7.jar",
+      "size": 15972,
+      "platform": []
+    },
+    {
+      "hash": "89f53089a5f8a983db25140a1c94c72fe2a8f56feb6ddb597f55b8329ce5b400",
+      "name": "lwjgl-3.3.2-natives-linux.jar",
+      "path": "https://repo.runelite.net/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2.jar",
+      "size": 114144,
+      "platform": [
+        {
+          "name": "linux"
+        }
+      ]
+    },
+    {
+      "hash": "eafcc780b445434d3c5ae7fa2fb6665de1a7560d537d2c408a8e80cd14d27161",
+      "name": "jna-5.9.0.jar",
+      "path": "https://repo.runelite.net/net/java/dev/jna/jna/5.9.0/jna-5.9.0.jar",
+      "size": 1729586,
+      "platform": []
+    },
+    {
+      "hash": "5cebefe2195fa4531834363454c79c7675551518ca236b64089c403da7967770",
+      "name": "netty-buffer-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.92.Final/netty-buffer-4.1.92.Final.jar",
+      "size": 305437,
+      "platform": []
+    },
+    {
+      "hash": "c518fa0427c7f6029b115541c0dbcf633fc89a65467f8472c52bb71fe18b559c",
+      "name": "flatlaf-3.2.5-rl4.jar",
+      "path": "https://repo.runelite.net/net/runelite/flatlaf/3.2.5-rl4/flatlaf-3.2.5-rl4.jar",
+      "size": 792432,
+      "platform": []
+    },
+    {
+      "hash": "61ce5e472664606bc8f3ac16403a5c35e2c4911943f3374eb916202c9cc2093a",
+      "name": "netty-codec-smtp-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-codec-smtp/4.1.92.Final/netty-codec-smtp-4.1.92.Final.jar",
+      "size": 21289,
+      "platform": []
+    },
+    {
+      "hash": "2d54050f40e52f376c97e1d0ccc57bc5bbd1bac7a3173d6e6ff297ff447fab28",
+      "name": "netty-transport-native-kqueue-4.1.92.Final-osx-aarch_64.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-kqueue/4.1.92.Final/netty-transport-native-kqueue-4.1.92.Final.jar",
+      "size": 25338,
+      "platform": []
+    },
+    {
+      "hash": "d84b9b2e8e765f61f3edaed612b93c5e19ac9a51f1dfd46e6b765292935c2a49",
+      "name": "netty-codec-xml-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-codec-xml/4.1.92.Final/netty-codec-xml-4.1.92.Final.jar",
+      "size": 19770,
+      "platform": []
+    },
+    {
+      "hash": "efa2379918bc3f6a2f3f78db6035ee7b03ba89bb257db2836d9130321cf73b03",
+      "name": "netty-transport-native-kqueue-4.1.92.Final-osx-x86_64.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-kqueue/4.1.92.Final/netty-transport-native-kqueue-4.1.92.Final.jar",
+      "size": 24652,
+      "platform": []
+    },
+    {
+      "hash": "a171ee4c734dd2da837e4b16be9df4661afab72a41adaf31eb84dfdaf936ca26",
+      "name": "failureaccess-1.0.1.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar",
+      "size": 4617,
+      "platform": []
+    },
+    {
+      "hash": "857480b6dea52543851d638d65cc9c2ba85b85bcd2862797a730990d570b4c75",
+      "name": "netty-codec-socks-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.92.Final/netty-codec-socks-4.1.92.Final.jar",
+      "size": 120705,
+      "platform": []
+    },
+    {
+      "hash": "43e42a76d7b6a6ebe75fa25fe551407cd4c54591566fb8bd490d1668391b82b8",
+      "name": "netty-codec-stomp-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-codec-stomp/4.1.92.Final/netty-codec-stomp-4.1.92.Final.jar",
+      "size": 34542,
+      "platform": []
+    },
+    {
+      "hash": "4f3a1307fb606340730a424d0e179e6d182ea8642fdb99d2d944ab0e3d71b237",
+      "name": "netty-transport-classes-kqueue-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-kqueue/4.1.92.Final/netty-transport-classes-kqueue-4.1.92.Final.jar",
+      "size": 108329,
       "platform": []
     },
     {
@@ -511,10 +544,10 @@
       "platform": []
     },
     {
-      "hash": "3214e1c23d549d5d67c91da4da1ef33c5248470bb824f91cbe8f9e0beea59eef",
-      "name": "trident-1.5.00.jar",
-      "path": "https://repo.runelite.net/net/runelite/pushingpixels/trident/1.5.00/trident-1.5.00.jar",
-      "size": 79726,
+      "hash": "961b2f6d87dbacc5d54abf45ab7a6e2495f89b75598962d8c723cea9bc210908",
+      "name": "commons-io-2.11.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar",
+      "size": 327135,
       "platform": []
     },
     {
@@ -525,66 +558,28 @@
       "platform": []
     },
     {
-      "hash": "74f8ad461c894560e389689de50e411d532554100b519a3abeca874cc6491052",
-      "name": "netty-transport-sctp-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-transport-sctp/4.1.92.Final/netty-transport-sctp-4.1.92.Final.jar",
-      "size": 50760,
+      "hash": "6afdd8f35f4eb60df965c290fa3acf29443fa986545113d0729b8461f6571f8f",
+      "name": "okhttp-4.9.1.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/4.9.1/okhttp-4.9.1.jar",
+      "size": 791390,
       "platform": []
     },
     {
-      "hash": "99b65ec215ade29037e31d7f884a3f9712f986cb1ec5c188bfe1251cb753199d",
-      "name": "netty-resolver-dns-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.92.Final/netty-resolver-dns-4.1.92.Final.jar",
-      "size": 165682,
-      "platform": []
+      "hash": "62603b9a92c789f0beb8ec25052f278d6f9ce02c6687c8f1afbc7483da54131a",
+      "name": "lwjgl-3.3.2-natives-macos.jar",
+      "path": "https://repo.runelite.net/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2.jar",
+      "size": 60240,
+      "platform": [
+        {
+          "name": "macos"
+        }
+      ]
     },
     {
-      "hash": "2e8cb2d546a01c2259cb17f1e06732db3d14b079d19622bf8400c82cb1ee6b96",
-      "name": "file-management-3.1.0.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.1.0/file-management-3.1.0.jar",
-      "size": 36328,
-      "platform": []
-    },
-    {
-      "hash": "ff10785ac2a357ec5de9c293cb982a2cbb605c0309ea4cc1cb9b9bc6dbe7f3cb",
-      "name": "checker-qual-3.12.0.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.12.0/checker-qual-3.12.0.jar",
-      "size": 208835,
-      "platform": []
-    },
-    {
-      "hash": "fc8a9a9140da01c7e9193f3cf85040b4533059f151a048d4175d4476559f6751",
-      "name": "netty-codec-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.92.Final/netty-codec-4.1.92.Final.jar",
-      "size": 345166,
-      "platform": []
-    },
-    {
-      "hash": "b372a037d4230aa57fbeffdef30fd6123f9c0c2db85d0aced00c91b974f33f99",
-      "name": "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar",
-      "path": "https://repo.maven.apache.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar",
-      "size": 2199,
-      "platform": []
-    },
-    {
-      "hash": "43945d791ece2012bb9086907e124ff814afd4014209f67cc89e7f324390c061",
-      "name": "protobuf-javalite-3.21.7.jar",
-      "path": "https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-javalite/3.21.7/protobuf-javalite-3.21.7.jar",
-      "size": 704122,
-      "platform": []
-    },
-    {
-      "hash": "5e79b78fab4588c404daa67d268ee6e45f4e300d3298e010e734595e89cb9a9d",
-      "name": "netty-codec-haproxy-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-codec-haproxy/4.1.92.Final/netty-codec-haproxy-4.1.92.Final.jar",
-      "size": 37775,
-      "platform": []
-    },
-    {
-      "hash": "857480b6dea52543851d638d65cc9c2ba85b85bcd2862797a730990d570b4c75",
-      "name": "netty-codec-socks-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.92.Final/netty-codec-socks-4.1.92.Final.jar",
-      "size": 120705,
+      "hash": "721cb91842b46fa056847d104d5225c8b8e1e8b62263b993051e1e5a0137b7ec",
+      "name": "error_prone_annotations-2.11.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.11.0/error_prone_annotations-2.11.0.jar",
+      "size": 15979,
       "platform": []
     },
     {
@@ -595,73 +590,17 @@
       "platform": []
     },
     {
-      "hash": "6afdd8f35f4eb60df965c290fa3acf29443fa986545113d0729b8461f6571f8f",
-      "name": "okhttp-4.9.1.jar",
-      "path": "https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/4.9.1/okhttp-4.9.1.jar",
-      "size": 791390,
+      "hash": "5e79b78fab4588c404daa67d268ee6e45f4e300d3298e010e734595e89cb9a9d",
+      "name": "netty-codec-haproxy-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-codec-haproxy/4.1.92.Final/netty-codec-haproxy-4.1.92.Final.jar",
+      "size": 37775,
       "platform": []
     },
     {
-      "hash": "e04ba5195bcd555dc95650f7cc614d151e4bcd52d29a10b8aa2197f3ab89ab9b",
-      "name": "javax.annotation-api-1.3.2.jar",
-      "path": "https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar",
-      "size": 26586,
-      "platform": []
-    },
-    {
-      "hash": "4241c14a7727c34feea6507ec801318a3d4a90f070e4525681079fb94ee4c593",
-      "name": "gson-2.10.1.jar",
-      "path": "https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar",
-      "size": 283367,
-      "platform": []
-    },
-    {
-      "hash": "3bae18be3e0f0940375d1ebdd2f3b84d87ae16026ae663b2f5d4667fe5b04036",
-      "name": "guice-5.0.1.jar",
-      "path": "https://repo.maven.apache.org/maven2/com/google/inject/guice/5.0.1/guice-5.0.1.jar",
-      "size": 773293,
-      "platform": []
-    },
-    {
-      "hash": "5fe22a549634d3c5b305a4a50014c2cd6cd0465d41c77465a2f4cac9e5fa683b",
-      "name": "netty-codec-memcache-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-codec-memcache/4.1.92.Final/netty-codec-memcache-4.1.92.Final.jar",
-      "size": 44686,
-      "platform": []
-    },
-    {
-      "hash": "ab40209bda5ae255667da6978eb7f8b6283424f892896b6461e256499ad0cbfa",
-      "name": "netty-handler-proxy-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.92.Final/netty-handler-proxy-4.1.92.Final.jar",
-      "size": 25482,
-      "platform": []
-    },
-    {
-      "hash": "4f3a1307fb606340730a424d0e179e6d182ea8642fdb99d2d944ab0e3d71b237",
-      "name": "netty-transport-classes-kqueue-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-kqueue/4.1.92.Final/netty-transport-classes-kqueue-4.1.92.Final.jar",
-      "size": 108329,
-      "platform": []
-    },
-    {
-      "hash": "055f5cb24287fa106100995a7b47ab92126b81e832e875f5fa2cf0bd55693d0b",
-      "name": "kotlin-stdlib-jdk7-1.8.22.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22.jar",
-      "size": 963,
-      "platform": []
-    },
-    {
-      "hash": "975b6f2c3685650bc58e2e37c6051115a5d6407f7e174dea5cce9064e2ccbdc7",
-      "name": "netty-resolver-dns-classes-macos-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.92.Final/netty-resolver-dns-classes-macos-4.1.92.Final.jar",
-      "size": 9091,
-      "platform": []
-    },
-    {
-      "hash": "4941773858f3fddb84c7c6d2cc67cf0c4c991fc3eb8a608916d9982e6997ad4d",
-      "name": "netty-resolver-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.92.Final/netty-resolver-4.1.92.Final.jar",
-      "size": 37788,
+      "hash": "7474e5e27a4f908a003ace4965964ccdb6f8cca202b180ea20fccafebe57ca99",
+      "name": "netty-transport-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.92.Final/netty-transport-4.1.92.Final.jar",
+      "size": 488581,
       "platform": []
     },
     {
@@ -676,59 +615,83 @@
       ]
     },
     {
-      "hash": "7474e5e27a4f908a003ace4965964ccdb6f8cca202b180ea20fccafebe57ca99",
-      "name": "netty-transport-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.92.Final/netty-transport-4.1.92.Final.jar",
-      "size": 488581,
+      "hash": "ebc65354b64a33659cc642446dc15c6d62a4bd0ae15c9a6a4a3adbcd71f1f690",
+      "name": "lwjgl-3.3.2-natives-windows.jar",
+      "path": "https://repo.runelite.net/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2.jar",
+      "size": 164993,
+      "platform": [
+        {
+          "arch": "x86",
+          "name": "windows"
+        }
+      ]
+    },
+    {
+      "hash": "ecc4d08610f28a6848ece4a78aba637e0854eba6e95db8e2099bdef166771fc3",
+      "name": "netty-codec-http2-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.92.Final/netty-codec-http2-4.1.92.Final.jar",
+      "size": 481142,
       "platform": []
     },
     {
-      "hash": "4198b0eaf090a4f25b6f7e5a59581f4314ba8c9f6cd1d13ee9d348e65ed8f707",
-      "name": "kotlin-stdlib-jdk8-1.8.22.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22.jar",
-      "size": 969,
+      "hash": "cb4f7ae0344534332d724b4587ffb1e05efa62fdf144ae9f24d0f56fdbb587b9",
+      "name": "plexus-java-1.1.1.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/1.1.1/plexus-java-1.1.1.jar",
+      "size": 53784,
       "platform": []
     },
     {
-      "hash": "d84b9b2e8e765f61f3edaed612b93c5e19ac9a51f1dfd46e6b765292935c2a49",
-      "name": "netty-codec-xml-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-codec-xml/4.1.92.Final/netty-codec-xml-4.1.92.Final.jar",
-      "size": 19770,
+      "hash": "99b65ec215ade29037e31d7f884a3f9712f986cb1ec5c188bfe1251cb753199d",
+      "name": "netty-resolver-dns-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.92.Final/netty-resolver-dns-4.1.92.Final.jar",
+      "size": 165682,
       "platform": []
     },
     {
-      "hash": "af8c57741fb54606de9090b133b5c0f82f2a5a9408c1ae3c2d8fadb9aca1540e",
-      "name": "netty-common-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.92.Final/netty-common-4.1.92.Final.jar",
-      "size": 659265,
+      "hash": "c3a32053bb4c042489f40936926487cdaf33089185b847fb298b84a62b5703ff",
+      "name": "lwjgl-opengl-3.3.2-natives-windows-x86.jar",
+      "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2.jar",
+      "size": 88610,
+      "platform": [
+        {
+          "arch": "x86",
+          "name": "windows"
+        }
+      ]
+    },
+    {
+      "hash": "d919d904486c037f8d193412da0c92e22a9fa24230b9d67a57855c5c31c7e94e",
+      "name": "commons-lang3-3.12.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar",
+      "size": 587402,
       "platform": []
     },
     {
-      "hash": "1063f1db146bba7b63e53345805d9642f67605421a9ede6f1760b19c88205915",
-      "name": "netty-transport-udt-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-transport-udt/4.1.92.Final/netty-transport-udt-4.1.92.Final.jar",
-      "size": 32132,
+      "hash": "56687e5370dcd64239c315d4a1c7e45b5a31ac9cdac077fc6af078f4b7bf5661",
+      "name": "netty-codec-redis-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-codec-redis/4.1.92.Final/netty-codec-redis-4.1.92.Final.jar",
+      "size": 45954,
       "platform": []
     },
     {
-      "hash": "961b2f6d87dbacc5d54abf45ab7a6e2495f89b75598962d8c723cea9bc210908",
-      "name": "commons-io-2.11.0.jar",
-      "path": "https://repo.maven.apache.org/maven2/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar",
-      "size": 327135,
+      "hash": "562cae90b874e1ccb32b0f44a0a9e5dfd114086f2be5196d8d01afd21d82db1d",
+      "name": "netty-transport-rxtx-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-transport-rxtx/4.1.92.Final/netty-transport-rxtx-4.1.92.Final.jar",
+      "size": 18188,
       "platform": []
     },
     {
-      "hash": "d2c3c17879f3619a216307644b10daeeddab1b04a1287dff50674a87da1443b2",
-      "name": "netty-handler-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.92.Final/netty-handler-4.1.92.Final.jar",
-      "size": 554169,
+      "hash": "45c83f94928a313bd5b25bf8d2064dc6fbe78335154a5cb11b718cceee7a3745",
+      "name": "netty-handler-ssl-ocsp-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-handler-ssl-ocsp/4.1.92.Final/netty-handler-ssl-ocsp-4.1.92.Final.jar",
+      "size": 26510,
       "platform": []
     },
     {
-      "hash": "da0392abcea5121f5edd9042012600584ac628f4a18fcf5c1bce60f3f9f6a33a",
-      "name": "lwjgl-opencl-3.3.2.jar",
-      "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opencl/3.3.2/lwjgl-opencl-3.3.2.jar",
-      "size": 238152,
+      "hash": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
+      "name": "jsr305-3.0.2.jar",
+      "path": "https://repo.runelite.net/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar",
+      "size": 19936,
       "platform": []
     },
     {
@@ -739,84 +702,28 @@
       "platform": []
     },
     {
-      "hash": "61ce5e472664606bc8f3ac16403a5c35e2c4911943f3374eb916202c9cc2093a",
-      "name": "netty-codec-smtp-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-codec-smtp/4.1.92.Final/netty-codec-smtp-4.1.92.Final.jar",
-      "size": 21289,
+      "hash": "cfee5822e342c4018b9c71acc6aac0e23910f1b04725a0e44fe9f94ef2dc3f1e",
+      "name": "jgroups-5.2.2.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jgroups/jgroups/5.2.2.Final/jgroups-5.2.2.Final.jar",
+      "size": 2192603,
       "platform": []
     },
     {
-      "hash": "dbf117e61bedcbe4f7b7be137f906a3f80c157c7fb5bd388b5f964cb6c34c373",
-      "name": "netty-codec-mqtt-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-codec-mqtt/4.1.92.Final/netty-codec-mqtt-4.1.92.Final.jar",
-      "size": 100899,
-      "platform": []
-    },
-    {
-      "hash": "21af30c92267bd6122c0e0b4d20cccb6641a37eaf956c6540ec471d584e64a7b",
-      "name": "j2objc-annotations-1.3.jar",
-      "path": "https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar",
-      "size": 8781,
-      "platform": []
-    },
-    {
-      "hash": "3b479313ab6caea4e5e25d3dee8ca80c302c89ba73e1af4dafaa100f6ef9296a",
-      "name": "kotlin-stdlib-1.9.21.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.9.21/kotlin-stdlib-1.9.21.jar",
-      "size": 1718945,
-      "platform": []
-    },
-    {
-      "hash": "0c6a78c4e696deaddefd8346b4c13883704b36a890003075a33ccba2d1a13c2d",
-      "name": "lwjgl-opengl-3.3.2-natives-macos.jar",
+      "hash": "8956bca64d2851dc14ec6bfbfc55ce35fdff89270b5f2a3c9f70aea77f6d1e17",
+      "name": "lwjgl-opengl-3.3.2-natives-linux.jar",
       "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2.jar",
-      "size": 41485,
+      "size": 80464,
       "platform": [
         {
-          "name": "macos"
+          "name": "linux"
         }
       ]
     },
     {
-      "hash": "43e42a76d7b6a6ebe75fa25fe551407cd4c54591566fb8bd490d1668391b82b8",
-      "name": "netty-codec-stomp-4.1.92.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-codec-stomp/4.1.92.Final/netty-codec-stomp-4.1.92.Final.jar",
-      "size": 34542,
-      "platform": []
-    },
-    {
-      "hash": "3558e81ca74c60dc01baca7ef05f48594bbaed43af45d4f1b9196e479734e675",
-      "name": "vecmath-1.5.2.jar",
-      "path": "https://repo.maven.apache.org/maven2/javax/vecmath/vecmath/1.5.2/vecmath-1.5.2.jar",
-      "size": 169541,
-      "platform": []
-    },
-    {
-      "hash": "f47904873d4d2b7d71b22a7ec6424b40f69b33cb0342a48a94b0be3fdeb70bc5",
-      "name": "rxrelay-3.0.1.jar",
-      "path": "https://repo.maven.apache.org/maven2/com/jakewharton/rxrelay3/rxrelay/3.0.1/rxrelay-3.0.1.jar",
-      "size": 28351,
-      "platform": []
-    },
-    {
-      "hash": "4496b06e73982fcdd8a5393f46e5df2ce2fa4465df5895454cac68a32f09bbc8",
-      "name": "okio-jvm-2.8.0.jar",
-      "path": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio/2.8.0/okio-2.8.0.jar",
-      "size": 243179,
-      "platform": []
-    },
-    {
-      "hash": "6d260ffd3a1008be5619f27d55217bc144a8b85c9d41566ef6cc3c14b94f9b5e",
-      "name": "jpackage-maven-plugin-0.1.5.jar",
-      "path": "https://repo.maven.apache.org/maven2/com/github/akman/jpackage-maven-plugin/0.1.5/jpackage-maven-plugin-0.1.5.jar",
-      "size": 64114,
-      "platform": []
-    },
-    {
-      "hash": "770cd903fa7b604d1f7ef7ba17f84108667294b2b478be8ed1af3bffb4ae0018",
-      "name": "commons-text-1.10.0.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar",
-      "size": 238400,
+      "hash": "ab40209bda5ae255667da6978eb7f8b6283424f892896b6461e256499ad0cbfa",
+      "name": "netty-handler-proxy-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.92.Final/netty-handler-proxy-4.1.92.Final.jar",
+      "size": 25482,
       "platform": []
     },
     {
@@ -827,144 +734,237 @@
       "platform": []
     },
     {
-      "hash": "a42edc9cab792e39fe39bb94f3fca655ed157ff87a8af78e1d6ba5b07c4a00ab",
-      "name": "guava-31.1-jre.jar",
-      "path": "https://repo.maven.apache.org/maven2/com/google/guava/guava/31.1-jre/guava-31.1-jre.jar",
-      "size": 2959479,
+      "hash": "f957f13604ea1686de805801862f339dbbb6eab9a66f9cc7e4a5c5b27e4fcecc",
+      "name": "plexus-utils-3.4.2.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.4.2/plexus-utils-3.4.2.jar",
+      "size": 267326,
       "platform": []
     },
     {
-      "hash": "7f70ecba1cdce3d0cea5c94eaae19e6d0c5a82181b6c24d3dd808a3419e83663",
-      "name": "klaxon-5.5.jar",
-      "path": "https://repo.maven.apache.org/maven2/com/beust/klaxon/5.5/klaxon-5.5.jar",
-      "size": 166681,
+      "hash": "af8c57741fb54606de9090b133b5c0f82f2a5a9408c1ae3c2d8fadb9aca1540e",
+      "name": "netty-common-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.92.Final/netty-common-4.1.92.Final.jar",
+      "size": 659265,
       "platform": []
     },
     {
-      "hash": "2218c73b40f9af98b570d084420c1b4a81332297bd7fc27ddd552e903be8e93c",
-      "name": "java-semver-0.9.0.jar",
-      "path": "https://repo.maven.apache.org/maven2/com/github/zafarkhaja/java-semver/0.9.0/java-semver-0.9.0.jar",
-      "size": 46843,
+      "hash": "fc8a9a9140da01c7e9193f3cf85040b4533059f151a048d4175d4476559f6751",
+      "name": "netty-codec-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.92.Final/netty-codec-4.1.92.Final.jar",
+      "size": 345166,
       "platform": []
     },
     {
-      "hash": "3120ecbcccf31f36064f260fa0127b4a359097a294ac5b3e7675d1867168f2e6",
-      "name": "lwjgl-opengl-3.3.2-natives-macos-arm64.jar",
-      "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2.jar",
-      "size": 42490,
-      "platform": [
-        {
-          "arch": "aarch64",
-          "name": "macos"
-        }
-      ]
+      "hash": "84dbfa4730565134504d65cdd823341c8b2ee655e2d1c5f004cf95bff0180655",
+      "name": "streamex-0.8.1.jar",
+      "path": "https://repo.maven.apache.org/maven2/one/util/streamex/0.8.1/streamex-0.8.1.jar",
+      "size": 314987,
+      "platform": []
+    },
+    {
+      "hash": "b37b9b1b7ef5cf5626d92d391de5422d5fd5a1816193447ee7bb61c70aa2db31",
+      "name": "netty-transport-native-unix-common-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.92.Final/netty-transport-native-unix-common-4.1.92.Final.jar",
+      "size": 43895,
+      "platform": []
+    },
+    {
+      "hash": "8d784075bec0b7c55042c109a4de8923b3b6d2ebd2e00912d518f07240f9c23a",
+      "name": "rxjava-3.1.2.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/reactivex/rxjava3/rxjava/3.1.2/rxjava-3.1.2.jar",
+      "size": 2654933,
+      "platform": []
+    },
+    {
+      "hash": "43945d791ece2012bb9086907e124ff814afd4014209f67cc89e7f324390c061",
+      "name": "protobuf-javalite-3.21.7.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-javalite/3.21.7/protobuf-javalite-3.21.7.jar",
+      "size": 704122,
+      "platform": []
+    },
+    {
+      "hash": "da0392abcea5121f5edd9042012600584ac628f4a18fcf5c1bce60f3f9f6a33a",
+      "name": "lwjgl-opencl-3.3.2.jar",
+      "path": "https://repo.runelite.net/org/lwjgl/lwjgl-opencl/3.3.2/lwjgl-opencl-3.3.2.jar",
+      "size": 238152,
+      "platform": []
+    },
+    {
+      "hash": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
+      "name": "javax.inject-1.jar",
+      "path": "https://repo.runelite.net/javax/inject/javax.inject/1/javax.inject-1.jar",
+      "size": 2497,
+      "platform": []
+    },
+    {
+      "hash": "1903bc6d87f3ab92023957b91f45a9c8eb3515bad030356ce977201e5141b724",
+      "name": "jna-platform-5.9.0.jar",
+      "path": "https://repo.runelite.net/net/java/dev/jna/jna-platform/5.9.0/jna-platform-5.9.0.jar",
+      "size": 1343236,
+      "platform": []
+    },
+    {
+      "hash": "4a9ef7ed809b1fbc6992bf87d404087c247e7a9766e25bb84377b58ed5c9eb58",
+      "name": "logback-core-1.2.9.jar",
+      "path": "https://repo.runelite.net/ch/qos/logback/logback-core/1.2.9/logback-core-1.2.9.jar",
+      "size": 454201,
+      "platform": []
+    },
+    {
+      "hash": "b9d4fe4d71938df38839f0eca42aaaa64cf8b313d678da036f0cb3ca199b47f5",
+      "name": "asm-9.2.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.2/asm-9.2.jar",
+      "size": 122004,
+      "platform": []
+    },
+    {
+      "hash": "a7f408fe67a3152b895784ba9ec4c6203e90bea627e70ed360a6883b6e714d48",
+      "name": "netty-resolver-dns-native-macos-4.1.92.Final-osx-aarch_64.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.92.Final/netty-resolver-dns-native-macos-4.1.92.Final.jar",
+      "size": 19390,
+      "platform": []
+    },
+    {
+      "hash": "e04ba5195bcd555dc95650f7cc614d151e4bcd52d29a10b8aa2197f3ab89ab9b",
+      "name": "javax.annotation-api-1.3.2.jar",
+      "path": "https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar",
+      "size": 26586,
+      "platform": []
+    },
+    {
+      "hash": "dbaa088690a23a954eff669a99d2452a24dd9f10d866725ff5d29ff4740a897e",
+      "name": "vecmath-1.3.1.jar",
+      "path": "https://repo.maven.apache.org/maven2/java3d/vecmath/1.3.1/vecmath-1.3.1.jar",
+      "size": 289881,
+      "platform": []
+    },
+    {
+      "hash": "5d6298b93a1905c32cda6478808ac14c2d4a47e91535e53c41f7feeb85d946f4",
+      "name": "slf4j-api-2.0.7.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar",
+      "size": 63635,
+      "platform": []
+    },
+    {
+      "hash": "d2c3c17879f3619a216307644b10daeeddab1b04a1287dff50674a87da1443b2",
+      "name": "netty-handler-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.92.Final/netty-handler-4.1.92.Final.jar",
+      "size": 554169,
+      "platform": []
+    },
+    {
+      "hash": "74f8ad461c894560e389689de50e411d532554100b519a3abeca874cc6491052",
+      "name": "netty-transport-sctp-4.1.92.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/netty/netty-transport-sctp/4.1.92.Final/netty-transport-sctp-4.1.92.Final.jar",
+      "size": 50760,
+      "platform": []
     }
   ],
   "updates": [],
   "dependencyHashes": {
     "game-0.0.1.jar": "b96690a4f4cca8417705067c437bd0cbe97f13177cd6c83e7db8f527299c8783",
     "runelite-0.0.1.jar": "6d3423e8aabd5e3d56d277abacceccc49830a30a2577b3462674004b885bd076",
-    "logback-core-1.2.9.jar": "4a9ef7ed809b1fbc6992bf87d404087c247e7a9766e25bb84377b58ed5c9eb58",
-    "javax.inject-1.jar": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
-    "lwjgl-opengl-3.3.2.jar": "0ebaaf92d306c946ce9d3db25496b9068b7aab782b15966be2544b6a24838038",
-    "lwjgl-3.3.2-natives-windows.jar": "ebc65354b64a33659cc642446dc15c6d62a4bd0ae15c9a6a4a3adbcd71f1f690",
-    "jna-platform-5.9.0.jar": "1903bc6d87f3ab92023957b91f45a9c8eb3515bad030356ce977201e5141b724",
-    "lwjgl-opengl-3.3.2-natives-windows.jar": "0275a42f91c6bc5f08bdc1f7c7e263058cc99dbed7c710a025e4ad175e9a0edd",
-    "lwjgl-opengl-3.3.2-natives-windows-x86.jar": "c3a32053bb4c042489f40936926487cdaf33089185b847fb298b84a62b5703ff",
-    "rlawt-1.3.jar": "3c3c608f97ce74bdfaa3af30fd026d5d8956280607e11dd1a0996fdb16eef6ef",
-    "lwjgl-3.3.2.jar": "f8016606e74f3cafd63eae07b1331f903f999c9f40726c838399a144c3809217",
-    "flatlaf-3.2.5-rl4.jar": "c518fa0427c7f6029b115541c0dbcf633fc89a65467f8472c52bb71fe18b559c",
-    "rxjava-3.1.2.jar": "8d784075bec0b7c55042c109a4de8923b3b6d2ebd2e00912d518f07240f9c23a",
-    "jgroups-5.2.2.Final.jar": "cfee5822e342c4018b9c71acc6aac0e23910f1b04725a0e44fe9f94ef2dc3f1e",
-    "jna-5.9.0.jar": "eafcc780b445434d3c5ae7fa2fb6665de1a7560d537d2c408a8e80cd14d27161",
-    "substance-8.0.02.jar": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83",
     "commons-csv-1.9.0.jar": "c418d6aab4db4f1f70983d355de8d7c1e755c754820a92294da2e5f5081022cc",
-    "desktopsupport-0.6.0.jar": "45726bd470f9d2507fbb0c96a11cf8eca0f902069d1b256bb038f125822ea290",
-    "netty-codec-redis-4.1.92.Final.jar": "56687e5370dcd64239c315d4a1c7e45b5a31ac9cdac077fc6af078f4b7bf5661",
-    "netty-all-4.1.92.Final.jar": "9fab2e80f4261e22071b61af8dcf35d0c831bb985279a154f6eaff70d0bd993c",
-    "plexus-utils-3.4.2.jar": "f957f13604ea1686de805801862f339dbbb6eab9a66f9cc7e4a5c5b27e4fcecc",
-    "plexus-java-1.1.1.jar": "cb4f7ae0344534332d724b4587ffb1e05efa62fdf144ae9f24d0f56fdbb587b9",
-    "netty-codec-http2-4.1.92.Final.jar": "ecc4d08610f28a6848ece4a78aba637e0854eba6e95db8e2099bdef166771fc3",
-    "netty-resolver-dns-native-macos-4.1.92.Final-osx-x86_64.jar": "fee1e69af2f97e73151713d0b06695ab5fe199d4aea324351f8507ca377b4136",
-    "j3d-core-1.3.1.jar": "fc54027aeff0e9965a16166df6f3e0425437e0696bcce5965aa09f4970576ddb",
-    "netty-buffer-4.1.92.Final.jar": "5cebefe2195fa4531834363454c79c7675551518ca236b64089c403da7967770",
-    "annotations-23.0.0.jar": "7b0f19724082cbfcbc66e5abea2b9bc92cf08a1ea11e191933ed43801eb3cd05",
-    "netty-transport-rxtx-4.1.92.Final.jar": "562cae90b874e1ccb32b0f44a0a9e5dfd114086f2be5196d8d01afd21d82db1d",
-    "netty-transport-native-kqueue-4.1.92.Final-osx-x86_64.jar": "efa2379918bc3f6a2f3f78db6035ee7b03ba89bb257db2836d9130321cf73b03",
-    "fastutil-8.5.12.jar": "b5543ee08d062d551cf0a5c9bc0fb70588b0382079029ba48941fa9c9be8a5d4",
-    "failureaccess-1.0.1.jar": "a171ee4c734dd2da837e4b16be9df4661afab72a41adaf31eb84dfdaf936ca26",
-    "commons-lang3-3.12.0.jar": "d919d904486c037f8d193412da0c92e22a9fa24230b9d67a57855c5c31c7e94e",
-    "netty-resolver-dns-native-macos-4.1.92.Final-osx-aarch_64.jar": "a7f408fe67a3152b895784ba9ec4c6203e90bea627e70ed360a6883b6e714d48",
-    "lwjgl-3.3.2-natives-macos.jar": "62603b9a92c789f0beb8ec25052f278d6f9ce02c6687c8f1afbc7483da54131a",
-    "lwjgl-3.3.2-natives-linux.jar": "89f53089a5f8a983db25140a1c94c72fe2a8f56feb6ddb597f55b8329ce5b400",
-    "vecmath-1.3.1.jar": "dbaa088690a23a954eff669a99d2452a24dd9f10d866725ff5d29ff4740a897e",
-    "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
-    "netty-transport-native-epoll-4.1.92.Final-linux-aarch_64.jar": "f91bb777e2954eea033550c09b7c2d94e83962fc418d98fcc7bf1ee03a84ec25",
-    "netty-codec-http-4.1.92.Final.jar": "ab051c87d46c32b5e9e486e611240358d2dfa5e9af8541b6cb476a09ddc5e548",
-    "netty-handler-ssl-ocsp-4.1.92.Final.jar": "45c83f94928a313bd5b25bf8d2064dc6fbe78335154a5cb11b718cceee7a3745",
-    "lwjgl-opengl-3.3.2-natives-linux.jar": "8956bca64d2851dc14ec6bfbfc55ce35fdff89270b5f2a3c9f70aea77f6d1e17",
-    "error_prone_annotations-2.11.0.jar": "721cb91842b46fa056847d104d5225c8b8e1e8b62263b993051e1e5a0137b7ec",
-    "lwjgl-3.3.2-natives-windows-x86.jar": "21e6f5c1c68a171398daf7785ffb2797da89242f90d19e24236563f7c0b1f7e0",
-    "discord-1.4.jar": "6409723fd13496386dfb1335a9794dc0919db6132522f2b7486d6734fc5df6e5",
-    "netty-transport-native-kqueue-4.1.92.Final-osx-aarch_64.jar": "2d54050f40e52f376c97e1d0ccc57bc5bbd1bac7a3173d6e6ff297ff447fab28",
-    "slf4j-simple-2.0.7.jar": "50eae3f1cc9a78a970970518e005d3f43d5cd3262d234f47ebdf3ca3f8bc01a7",
-    "logback-classic-1.2.9.jar": "ad745cc243805800d1ebbf5b7deba03b37c95885e6bce71335a73f7d6d0f14ee",
-    "netty-transport-classes-epoll-4.1.92.Final.jar": "873bfefc23e9f02bbb5723f6dd01973878087c368b7f42833308965fb1869360",
-    "netty-transport-native-unix-common-4.1.92.Final.jar": "b37b9b1b7ef5cf5626d92d391de5422d5fd5a1816193447ee7bb61c70aa2db31",
     "lwjgl-3.3.2-natives-macos-arm64.jar": "ebb8474ad3c19b906649ac41cef62314fd9b355cea5509d9be0c8728db7a6c38",
-    "slf4j-api-2.0.7.jar": "5d6298b93a1905c32cda6478808ac14c2d4a47e91535e53c41f7feeb85d946f4",
-    "streamex-0.8.1.jar": "84dbfa4730565134504d65cdd823341c8b2ee655e2d1c5f004cf95bff0180655",
-    "jsr305-3.0.2.jar": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
-    "asm-9.2.jar": "b9d4fe4d71938df38839f0eca42aaaa64cf8b313d678da036f0cb3ca199b47f5",
+    "netty-transport-classes-epoll-4.1.92.Final.jar": "873bfefc23e9f02bbb5723f6dd01973878087c368b7f42833308965fb1869360",
+    "commons-text-1.10.0.jar": "770cd903fa7b604d1f7ef7ba17f84108667294b2b478be8ed1af3bffb4ae0018",
+    "kotlin-stdlib-jdk7-1.8.22.jar": "055f5cb24287fa106100995a7b47ab92126b81e832e875f5fa2cf0bd55693d0b",
+    "netty-all-4.1.92.Final.jar": "9fab2e80f4261e22071b61af8dcf35d0c831bb985279a154f6eaff70d0bd993c",
+    "j2objc-annotations-1.3.jar": "21af30c92267bd6122c0e0b4d20cccb6641a37eaf956c6540ec471d584e64a7b",
+    "guice-5.0.1.jar": "3bae18be3e0f0940375d1ebdd2f3b84d87ae16026ae663b2f5d4667fe5b04036",
+    "netty-transport-udt-4.1.92.Final.jar": "1063f1db146bba7b63e53345805d9642f67605421a9ede6f1760b19c88205915",
+    "lwjgl-3.3.2.jar": "f8016606e74f3cafd63eae07b1331f903f999c9f40726c838399a144c3809217",
+    "j3d-core-1.3.1.jar": "fc54027aeff0e9965a16166df6f3e0425437e0696bcce5965aa09f4970576ddb",
+    "lwjgl-opengl-3.3.2-natives-windows.jar": "0275a42f91c6bc5f08bdc1f7c7e263058cc99dbed7c710a025e4ad175e9a0edd",
+    "kotlin-stdlib-jdk8-1.8.22.jar": "4198b0eaf090a4f25b6f7e5a59581f4314ba8c9f6cd1d13ee9d348e65ed8f707",
+    "discord-1.4.jar": "6409723fd13496386dfb1335a9794dc0919db6132522f2b7486d6734fc5df6e5",
+    "gson-2.10.1.jar": "4241c14a7727c34feea6507ec801318a3d4a90f070e4525681079fb94ee4c593",
+    "jpackage-maven-plugin-0.1.5.jar": "6d260ffd3a1008be5619f27d55217bc144a8b85c9d41566ef6cc3c14b94f9b5e",
+    "checker-qual-3.12.0.jar": "ff10785ac2a357ec5de9c293cb982a2cbb605c0309ea4cc1cb9b9bc6dbe7f3cb",
+    "klaxon-5.5.jar": "7f70ecba1cdce3d0cea5c94eaae19e6d0c5a82181b6c24d3dd808a3419e83663",
+    "lwjgl-opengl-3.3.2-natives-macos.jar": "0c6a78c4e696deaddefd8346b4c13883704b36a890003075a33ccba2d1a13c2d",
+    "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
+    "desktopsupport-0.6.0.jar": "45726bd470f9d2507fbb0c96a11cf8eca0f902069d1b256bb038f125822ea290",
+    "annotations-23.0.0.jar": "7b0f19724082cbfcbc66e5abea2b9bc92cf08a1ea11e191933ed43801eb3cd05",
+    "substance-8.0.02.jar": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83",
+    "lwjgl-opengl-3.3.2.jar": "0ebaaf92d306c946ce9d3db25496b9068b7aab782b15966be2544b6a24838038",
+    "guava-31.1-jre.jar": "a42edc9cab792e39fe39bb94f3fca655ed157ff87a8af78e1d6ba5b07c4a00ab",
+    "netty-codec-memcache-4.1.92.Final.jar": "5fe22a549634d3c5b305a4a50014c2cd6cd0465d41c77465a2f4cac9e5fa683b",
+    "netty-resolver-4.1.92.Final.jar": "4941773858f3fddb84c7c6d2cc67cf0c4c991fc3eb8a608916d9982e6997ad4d",
+    "rlawt-1.3.jar": "3c3c608f97ce74bdfaa3af30fd026d5d8956280607e11dd1a0996fdb16eef6ef",
+    "rxrelay-3.0.1.jar": "f47904873d4d2b7d71b22a7ec6424b40f69b33cb0342a48a94b0be3fdeb70bc5",
+    "netty-resolver-dns-native-macos-4.1.92.Final-osx-x86_64.jar": "fee1e69af2f97e73151713d0b06695ab5fe199d4aea324351f8507ca377b4136",
+    "java-semver-0.9.0.jar": "2218c73b40f9af98b570d084420c1b4a81332297bd7fc27ddd552e903be8e93c",
+    "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar": "b372a037d4230aa57fbeffdef30fd6123f9c0c2db85d0aced00c91b974f33f99",
+    "netty-codec-mqtt-4.1.92.Final.jar": "dbf117e61bedcbe4f7b7be137f906a3f80c157c7fb5bd388b5f964cb6c34c373",
+    "vecmath-1.5.2.jar": "3558e81ca74c60dc01baca7ef05f48594bbaed43af45d4f1b9196e479734e675",
+    "netty-codec-http-4.1.92.Final.jar": "ab051c87d46c32b5e9e486e611240358d2dfa5e9af8541b6cb476a09ddc5e548",
+    "trident-1.5.00.jar": "3214e1c23d549d5d67c91da4da1ef33c5248470bb824f91cbe8f9e0beea59eef",
+    "netty-transport-native-epoll-4.1.92.Final-linux-aarch_64.jar": "f91bb777e2954eea033550c09b7c2d94e83962fc418d98fcc7bf1ee03a84ec25",
+    "lwjgl-opengl-3.3.2-natives-macos-arm64.jar": "3120ecbcccf31f36064f260fa0127b4a359097a294ac5b3e7675d1867168f2e6",
+    "logback-classic-1.2.9.jar": "ad745cc243805800d1ebbf5b7deba03b37c95885e6bce71335a73f7d6d0f14ee",
+    "netty-resolver-dns-classes-macos-4.1.92.Final.jar": "975b6f2c3685650bc58e2e37c6051115a5d6407f7e174dea5cce9064e2ccbdc7",
+    "lwjgl-3.3.2-natives-windows-x86.jar": "21e6f5c1c68a171398daf7785ffb2797da89242f90d19e24236563f7c0b1f7e0",
+    "kotlin-stdlib-1.9.21.jar": "3b479313ab6caea4e5e25d3dee8ca80c302c89ba73e1af4dafaa100f6ef9296a",
+    "file-management-3.1.0.jar": "2e8cb2d546a01c2259cb17f1e06732db3d14b079d19622bf8400c82cb1ee6b96",
+    "fastutil-8.5.12.jar": "b5543ee08d062d551cf0a5c9bc0fb70588b0382079029ba48941fa9c9be8a5d4",
+    "okio-jvm-2.8.0.jar": "4496b06e73982fcdd8a5393f46e5df2ce2fa4465df5895454cac68a32f09bbc8",
+    "slf4j-simple-2.0.7.jar": "50eae3f1cc9a78a970970518e005d3f43d5cd3262d234f47ebdf3ca3f8bc01a7",
+    "lwjgl-3.3.2-natives-linux.jar": "89f53089a5f8a983db25140a1c94c72fe2a8f56feb6ddb597f55b8329ce5b400",
+    "jna-5.9.0.jar": "eafcc780b445434d3c5ae7fa2fb6665de1a7560d537d2c408a8e80cd14d27161",
+    "netty-buffer-4.1.92.Final.jar": "5cebefe2195fa4531834363454c79c7675551518ca236b64089c403da7967770",
+    "flatlaf-3.2.5-rl4.jar": "c518fa0427c7f6029b115541c0dbcf633fc89a65467f8472c52bb71fe18b559c",
+    "netty-codec-smtp-4.1.92.Final.jar": "61ce5e472664606bc8f3ac16403a5c35e2c4911943f3374eb916202c9cc2093a",
+    "netty-transport-native-kqueue-4.1.92.Final-osx-aarch_64.jar": "2d54050f40e52f376c97e1d0ccc57bc5bbd1bac7a3173d6e6ff297ff447fab28",
+    "netty-codec-xml-4.1.92.Final.jar": "d84b9b2e8e765f61f3edaed612b93c5e19ac9a51f1dfd46e6b765292935c2a49",
+    "netty-transport-native-kqueue-4.1.92.Final-osx-x86_64.jar": "efa2379918bc3f6a2f3f78db6035ee7b03ba89bb257db2836d9130321cf73b03",
+    "failureaccess-1.0.1.jar": "a171ee4c734dd2da837e4b16be9df4661afab72a41adaf31eb84dfdaf936ca26",
+    "netty-codec-socks-4.1.92.Final.jar": "857480b6dea52543851d638d65cc9c2ba85b85bcd2862797a730990d570b4c75",
+    "netty-codec-stomp-4.1.92.Final.jar": "43e42a76d7b6a6ebe75fa25fe551407cd4c54591566fb8bd490d1668391b82b8",
+    "netty-transport-classes-kqueue-4.1.92.Final.jar": "4f3a1307fb606340730a424d0e179e6d182ea8642fdb99d2d944ab0e3d71b237",
     "reactive-streams-1.0.3.jar": "1dee0481072d19c929b623e155e14d2f6085dc011529a0a0dbefc84cf571d865",
     "jopt-simple-5.0.4.jar": "df26cc58f235f477db07f753ba5a3ab243ebe5789d9f89ecf68dd62ea9a66c28",
-    "trident-1.5.00.jar": "3214e1c23d549d5d67c91da4da1ef33c5248470bb824f91cbe8f9e0beea59eef",
-    "kotlin-reflect-1.4.31.jar": "91fad0b42974a7d5811e30a61f05706e176b144235717c6de7e81e3a781028f2",
-    "netty-transport-sctp-4.1.92.Final.jar": "74f8ad461c894560e389689de50e411d532554100b519a3abeca874cc6491052",
-    "netty-resolver-dns-4.1.92.Final.jar": "99b65ec215ade29037e31d7f884a3f9712f986cb1ec5c188bfe1251cb753199d",
-    "file-management-3.1.0.jar": "2e8cb2d546a01c2259cb17f1e06732db3d14b079d19622bf8400c82cb1ee6b96",
-    "checker-qual-3.12.0.jar": "ff10785ac2a357ec5de9c293cb982a2cbb605c0309ea4cc1cb9b9bc6dbe7f3cb",
-    "netty-codec-4.1.92.Final.jar": "fc8a9a9140da01c7e9193f3cf85040b4533059f151a048d4175d4476559f6751",
-    "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar": "b372a037d4230aa57fbeffdef30fd6123f9c0c2db85d0aced00c91b974f33f99",
-    "protobuf-javalite-3.21.7.jar": "43945d791ece2012bb9086907e124ff814afd4014209f67cc89e7f324390c061",
-    "netty-codec-haproxy-4.1.92.Final.jar": "5e79b78fab4588c404daa67d268ee6e45f4e300d3298e010e734595e89cb9a9d",
-    "netty-codec-socks-4.1.92.Final.jar": "857480b6dea52543851d638d65cc9c2ba85b85bcd2862797a730990d570b4c75",
-    "netty-codec-dns-4.1.92.Final.jar": "3c2b0bd76132cfcf9c3fa9a938821790e174bc30519a444793024cac0add4e73",
-    "okhttp-4.9.1.jar": "6afdd8f35f4eb60df965c290fa3acf29443fa986545113d0729b8461f6571f8f",
-    "javax.annotation-api-1.3.2.jar": "e04ba5195bcd555dc95650f7cc614d151e4bcd52d29a10b8aa2197f3ab89ab9b",
-    "gson-2.10.1.jar": "4241c14a7727c34feea6507ec801318a3d4a90f070e4525681079fb94ee4c593",
-    "guice-5.0.1.jar": "3bae18be3e0f0940375d1ebdd2f3b84d87ae16026ae663b2f5d4667fe5b04036",
-    "netty-codec-memcache-4.1.92.Final.jar": "5fe22a549634d3c5b305a4a50014c2cd6cd0465d41c77465a2f4cac9e5fa683b",
-    "netty-handler-proxy-4.1.92.Final.jar": "ab40209bda5ae255667da6978eb7f8b6283424f892896b6461e256499ad0cbfa",
-    "netty-transport-classes-kqueue-4.1.92.Final.jar": "4f3a1307fb606340730a424d0e179e6d182ea8642fdb99d2d944ab0e3d71b237",
-    "kotlin-stdlib-jdk7-1.8.22.jar": "055f5cb24287fa106100995a7b47ab92126b81e832e875f5fa2cf0bd55693d0b",
-    "netty-resolver-dns-classes-macos-4.1.92.Final.jar": "975b6f2c3685650bc58e2e37c6051115a5d6407f7e174dea5cce9064e2ccbdc7",
-    "netty-resolver-4.1.92.Final.jar": "4941773858f3fddb84c7c6d2cc67cf0c4c991fc3eb8a608916d9982e6997ad4d",
-    "netty-transport-native-epoll-4.1.92.Final-linux-x86_64.jar": "7a6154b96128c5ec5917e946d5d689048f8857b001fd891868f664a33929f136",
-    "netty-transport-4.1.92.Final.jar": "7474e5e27a4f908a003ace4965964ccdb6f8cca202b180ea20fccafebe57ca99",
-    "kotlin-stdlib-jdk8-1.8.22.jar": "4198b0eaf090a4f25b6f7e5a59581f4314ba8c9f6cd1d13ee9d348e65ed8f707",
-    "netty-codec-xml-4.1.92.Final.jar": "d84b9b2e8e765f61f3edaed612b93c5e19ac9a51f1dfd46e6b765292935c2a49",
-    "netty-common-4.1.92.Final.jar": "af8c57741fb54606de9090b133b5c0f82f2a5a9408c1ae3c2d8fadb9aca1540e",
-    "netty-transport-udt-4.1.92.Final.jar": "1063f1db146bba7b63e53345805d9642f67605421a9ede6f1760b19c88205915",
     "commons-io-2.11.0.jar": "961b2f6d87dbacc5d54abf45ab7a6e2495f89b75598962d8c723cea9bc210908",
-    "netty-handler-4.1.92.Final.jar": "d2c3c17879f3619a216307644b10daeeddab1b04a1287dff50674a87da1443b2",
-    "lwjgl-opencl-3.3.2.jar": "da0392abcea5121f5edd9042012600584ac628f4a18fcf5c1bce60f3f9f6a33a",
+    "kotlin-reflect-1.4.31.jar": "91fad0b42974a7d5811e30a61f05706e176b144235717c6de7e81e3a781028f2",
+    "okhttp-4.9.1.jar": "6afdd8f35f4eb60df965c290fa3acf29443fa986545113d0729b8461f6571f8f",
+    "lwjgl-3.3.2-natives-macos.jar": "62603b9a92c789f0beb8ec25052f278d6f9ce02c6687c8f1afbc7483da54131a",
+    "error_prone_annotations-2.11.0.jar": "721cb91842b46fa056847d104d5225c8b8e1e8b62263b993051e1e5a0137b7ec",
+    "netty-codec-dns-4.1.92.Final.jar": "3c2b0bd76132cfcf9c3fa9a938821790e174bc30519a444793024cac0add4e73",
+    "netty-codec-haproxy-4.1.92.Final.jar": "5e79b78fab4588c404daa67d268ee6e45f4e300d3298e010e734595e89cb9a9d",
+    "netty-transport-4.1.92.Final.jar": "7474e5e27a4f908a003ace4965964ccdb6f8cca202b180ea20fccafebe57ca99",
+    "netty-transport-native-epoll-4.1.92.Final-linux-x86_64.jar": "7a6154b96128c5ec5917e946d5d689048f8857b001fd891868f664a33929f136",
+    "lwjgl-3.3.2-natives-windows.jar": "ebc65354b64a33659cc642446dc15c6d62a4bd0ae15c9a6a4a3adbcd71f1f690",
+    "netty-codec-http2-4.1.92.Final.jar": "ecc4d08610f28a6848ece4a78aba637e0854eba6e95db8e2099bdef166771fc3",
+    "plexus-java-1.1.1.jar": "cb4f7ae0344534332d724b4587ffb1e05efa62fdf144ae9f24d0f56fdbb587b9",
+    "netty-resolver-dns-4.1.92.Final.jar": "99b65ec215ade29037e31d7f884a3f9712f986cb1ec5c188bfe1251cb753199d",
+    "lwjgl-opengl-3.3.2-natives-windows-x86.jar": "c3a32053bb4c042489f40936926487cdaf33089185b847fb298b84a62b5703ff",
+    "commons-lang3-3.12.0.jar": "d919d904486c037f8d193412da0c92e22a9fa24230b9d67a57855c5c31c7e94e",
+    "netty-codec-redis-4.1.92.Final.jar": "56687e5370dcd64239c315d4a1c7e45b5a31ac9cdac077fc6af078f4b7bf5661",
+    "netty-transport-rxtx-4.1.92.Final.jar": "562cae90b874e1ccb32b0f44a0a9e5dfd114086f2be5196d8d01afd21d82db1d",
+    "netty-handler-ssl-ocsp-4.1.92.Final.jar": "45c83f94928a313bd5b25bf8d2064dc6fbe78335154a5cb11b718cceee7a3745",
+    "jsr305-3.0.2.jar": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
     "qdox-2.0.1.jar": "c28db4602da9f3817a59de9be137c1f6083a9cb95fa1781f54eda75763a95c67",
-    "netty-codec-smtp-4.1.92.Final.jar": "61ce5e472664606bc8f3ac16403a5c35e2c4911943f3374eb916202c9cc2093a",
-    "netty-codec-mqtt-4.1.92.Final.jar": "dbf117e61bedcbe4f7b7be137f906a3f80c157c7fb5bd388b5f964cb6c34c373",
-    "j2objc-annotations-1.3.jar": "21af30c92267bd6122c0e0b4d20cccb6641a37eaf956c6540ec471d584e64a7b",
-    "kotlin-stdlib-1.9.21.jar": "3b479313ab6caea4e5e25d3dee8ca80c302c89ba73e1af4dafaa100f6ef9296a",
-    "lwjgl-opengl-3.3.2-natives-macos.jar": "0c6a78c4e696deaddefd8346b4c13883704b36a890003075a33ccba2d1a13c2d",
-    "netty-codec-stomp-4.1.92.Final.jar": "43e42a76d7b6a6ebe75fa25fe551407cd4c54591566fb8bd490d1668391b82b8",
-    "vecmath-1.5.2.jar": "3558e81ca74c60dc01baca7ef05f48594bbaed43af45d4f1b9196e479734e675",
-    "rxrelay-3.0.1.jar": "f47904873d4d2b7d71b22a7ec6424b40f69b33cb0342a48a94b0be3fdeb70bc5",
-    "okio-jvm-2.8.0.jar": "4496b06e73982fcdd8a5393f46e5df2ce2fa4465df5895454cac68a32f09bbc8",
-    "jpackage-maven-plugin-0.1.5.jar": "6d260ffd3a1008be5619f27d55217bc144a8b85c9d41566ef6cc3c14b94f9b5e",
-    "commons-text-1.10.0.jar": "770cd903fa7b604d1f7ef7ba17f84108667294b2b478be8ed1af3bffb4ae0018",
+    "jgroups-5.2.2.Final.jar": "cfee5822e342c4018b9c71acc6aac0e23910f1b04725a0e44fe9f94ef2dc3f1e",
+    "lwjgl-opengl-3.3.2-natives-linux.jar": "8956bca64d2851dc14ec6bfbfc55ce35fdff89270b5f2a3c9f70aea77f6d1e17",
+    "netty-handler-proxy-4.1.92.Final.jar": "ab40209bda5ae255667da6978eb7f8b6283424f892896b6461e256499ad0cbfa",
     "kotlinx-coroutines-core-jvm-1.8.1-Beta.jar": "fe6b8f6f3f89ce76847181e6dc89bb747f572b2e12ae71b2784d6a07552378bd",
-    "guava-31.1-jre.jar": "a42edc9cab792e39fe39bb94f3fca655ed157ff87a8af78e1d6ba5b07c4a00ab",
-    "klaxon-5.5.jar": "7f70ecba1cdce3d0cea5c94eaae19e6d0c5a82181b6c24d3dd808a3419e83663",
-    "java-semver-0.9.0.jar": "2218c73b40f9af98b570d084420c1b4a81332297bd7fc27ddd552e903be8e93c",
-    "lwjgl-opengl-3.3.2-natives-macos-arm64.jar": "3120ecbcccf31f36064f260fa0127b4a359097a294ac5b3e7675d1867168f2e6"
+    "plexus-utils-3.4.2.jar": "f957f13604ea1686de805801862f339dbbb6eab9a66f9cc7e4a5c5b27e4fcecc",
+    "netty-common-4.1.92.Final.jar": "af8c57741fb54606de9090b133b5c0f82f2a5a9408c1ae3c2d8fadb9aca1540e",
+    "netty-codec-4.1.92.Final.jar": "fc8a9a9140da01c7e9193f3cf85040b4533059f151a048d4175d4476559f6751",
+    "streamex-0.8.1.jar": "84dbfa4730565134504d65cdd823341c8b2ee655e2d1c5f004cf95bff0180655",
+    "netty-transport-native-unix-common-4.1.92.Final.jar": "b37b9b1b7ef5cf5626d92d391de5422d5fd5a1816193447ee7bb61c70aa2db31",
+    "rxjava-3.1.2.jar": "8d784075bec0b7c55042c109a4de8923b3b6d2ebd2e00912d518f07240f9c23a",
+    "protobuf-javalite-3.21.7.jar": "43945d791ece2012bb9086907e124ff814afd4014209f67cc89e7f324390c061",
+    "lwjgl-opencl-3.3.2.jar": "da0392abcea5121f5edd9042012600584ac628f4a18fcf5c1bce60f3f9f6a33a",
+    "javax.inject-1.jar": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
+    "jna-platform-5.9.0.jar": "1903bc6d87f3ab92023957b91f45a9c8eb3515bad030356ce977201e5141b724",
+    "logback-core-1.2.9.jar": "4a9ef7ed809b1fbc6992bf87d404087c247e7a9766e25bb84377b58ed5c9eb58",
+    "asm-9.2.jar": "b9d4fe4d71938df38839f0eca42aaaa64cf8b313d678da036f0cb3ca199b47f5",
+    "netty-resolver-dns-native-macos-4.1.92.Final-osx-aarch_64.jar": "a7f408fe67a3152b895784ba9ec4c6203e90bea627e70ed360a6883b6e714d48",
+    "javax.annotation-api-1.3.2.jar": "e04ba5195bcd555dc95650f7cc614d151e4bcd52d29a10b8aa2197f3ab89ab9b",
+    "vecmath-1.3.1.jar": "dbaa088690a23a954eff669a99d2452a24dd9f10d866725ff5d29ff4740a897e",
+    "slf4j-api-2.0.7.jar": "5d6298b93a1905c32cda6478808ac14c2d4a47e91535e53c41f7feeb85d946f4",
+    "netty-handler-4.1.92.Final.jar": "d2c3c17879f3619a216307644b10daeeddab1b04a1287dff50674a87da1443b2",
+    "netty-transport-sctp-4.1.92.Final.jar": "74f8ad461c894560e389689de50e411d532554100b519a3abeca874cc6491052"
   }
 }
